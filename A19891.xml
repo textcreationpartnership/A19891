@@ -1,0 +1,492 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A summe of the Guisian ambassage to the Bishop of Rome, founde lately amongst the writinges of one Dauid and aduocate of Paris, and translated out of French into Latin, and from Latin into English</title>
+            <author>David, Advocate of Paris.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1579</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19891</idno>
+            <idno type="STC">STC 6319</idno>
+            <idno type="STC">ESTC S106678</idno>
+            <idno type="EEBO-CITATION">99842391</idno>
+            <idno type="PROQUEST">99842391</idno>
+            <idno type="VID">7041</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19891)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 7041)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 418:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A summe of the Guisian ambassage to the Bishop of Rome, founde lately amongst the writinges of one Dauid and aduocate of Paris, and translated out of French into Latin, and from Latin into English</title>
+                  <author>David, Advocate of Paris.</author>
+               </titleStmt>
+               <extent>[32] p.   </extent>
+               <publicationStmt>
+                  <publisher>J. Charlewood],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Imprinted 1579.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from STC.</note>
+                  <note>Imperfect; trimmed at top affecting text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Guise, Henri, --  duc de, 1614-1664.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:7041:1" rendition="simple:additions"/>
+            <pb facs="tcp:7041:1"/>
+            <p>
+               <g ref="char:leaf">❧</g> A Summe of the <hi>Guiſian</hi> Ambaſſage to the Biſhop of <hi>Rome,</hi> founde lately a<g ref="char:EOLhyphen"/>mongſt the writinges of one <hi>Dauid</hi> an Aduocate of <hi>Paris,</hi> and tranſlated out of French into Latin, and from Latin into Engliſh.</p>
+            <p>
+               <g ref="char:leaf">❧</g> 
+               <hi>Jmprinted.</hi> 1579.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:7041:2"/>
+            <pb facs="tcp:7041:2" rendition="simple:additions"/>
+            <head>
+               <g ref="char:leaf">❧</g> To the Chriſtian Reader, <hi>the Tranſlator ſendeth gree<g ref="char:EOLhyphen"/>ting</hi> in Chriſt Ieſu.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>His little Pamphlet,</hi> (good Reader) being fyrſt ex<g ref="char:EOLhyphen"/>tant in French, and after tranſ<g ref="char:EOLhyphen"/>lated into Latin, came vnto my hands by chau<g ref="char:cmbAbbrStroke">̄</g>ce, peruſing other bookes which were brought from <hi>Franckford:</hi> and ouerrunning ſhortly the ſame, and percey<g ref="char:EOLhyphen"/>uing that it contayned the diſcouerye of a very da<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngerous and miſcheuous practiſe of the Papiſtes in Fraunce, eſpecially of the <hi>Guiſian</hi> faction, which vnder pretence of the maintenaunce of the Catholick or Romiſh faith, (as it may ſeeme) beeing thereunto by the Pope, and his fauorers induced for the vpholding of his pride and ambicion, toge<g ref="char:EOLhyphen"/>ther with their Haeriticall and erronious doctrine, which by the Goſpell in the noble Realme of Fraunce, as in all other places in Chriſtendom is now laide open and plain<g ref="char:EOLhyphen"/>ly confuted, to their no ſmall loſſe &amp; griefe, ſeeke
+<pb facs="tcp:7041:3" rendition="simple:additions"/> I ſpeake rather to aſpire to the tytle of the Crowne of that mighty Kingdome, by pri<g ref="char:EOLhyphen"/>uye claiming vnto the<g ref="char:cmbAbbrStroke">̄</g>ſelues, the right ther<g ref="char:EOLhyphen"/>of as the heyres diſcending lineallye from <hi>Charles</hi> the great: and pleading the <hi>Valoys,</hi> with the <hi>Borbones</hi> to be but vſurpers, and intruders: who at this daye are the right ap<g ref="char:EOLhyphen"/>paraunt heyres thereof: I thought good to publiſh the ſame to the view of the worlde, leauing the creadit thereof to the Reporter, that it may appeare both how cruell and bloodthirſty a generation theſe Papiſtes are, who can neuer be ſatiſfyed with the ſhedding of their breathernes bloode, and that from <hi>Rome</hi> that ſpirituall <hi>Babilon,</hi> as from a Fountaine flowing into all Chriſte<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>dome the continuall diſcords, contentions, tumults, warres vprores, treaſons and rebel<g ref="char:EOLhyphen"/>lions wherewith the ſame is lamentably at this day oppreſſed, and ouerwhelmed: as alſo to ſhew how vniuſtlye they burthen and charge the godly, and zelous nobility, and Subiectes of that Realme and other places with Treaſon and rebellion againſt theyr Soueraignes, and Princes, they them<g ref="char:EOLhyphen"/>ſelues
+<pb facs="tcp:7041:3"/> being moſt giltye thereof, when they withſtand with all reaſonable, and lawfull meanes the vniuſt, violent, tirrannicall, and vnnatural oppreſſions, and inuaſions, prac<g ref="char:EOLhyphen"/>tiſed againſt them, beſydes all lawe of God and man, by the Pope, abuſinge the Scepters and aucthorite of Princes, to the eſtabliſhing of his longe vſurped primacie, Pride and Ambition, in the Church of Chriſt. For how ſo euer he colloureth his purpoſes with faire ſhowes: yet is it euident to thoſe that are not blinded with affection malice, or by the iuſt iudgements of God caſt into a reprobate ſence, that he ſeeketh his owne and not thoſe thinges which ap<g ref="char:EOLhyphen"/>pertaine vnto Chriſt, and that he diſcrieth him ſelfe to be very Antichriſte, in ſettinge vp his owne kingdom, with the ouerthrow of the kingdom of Chriſt, and his Goſpell, (as much as lyeth in him,) knowing, &amp; fee<g ref="char:EOLhyphen"/>ling by experience, to his great griefe (Gods name be praiſed therefore) that the one can<g ref="char:EOLhyphen"/>not ſtand with the other.</p>
+            <p>Therefore when it pleaſed God to make manifeſt to the world, by the glorious light
+<pb facs="tcp:7041:4"/> of the Goſpel of his ſonne, how trayterouſ<g ref="char:EOLhyphen"/>lye, wickedlye, and blaſphemouſlye in the middeſt of groſe and palpable darckneſſe, he hath vſurped &amp; intruded vpon the king<g ref="char:EOLhyphen"/>dome of his Chriſt, and he begins to take a<g ref="char:EOLhyphen"/>gaine poſſeſſion thereof, and ſhaketh, like a tottering wall, the kingdome of <hi>Antichriſt:</hi> he perceiuing the ruine of his vſurped ty<g ref="char:EOLhyphen"/>ranny to be threatned in all Chriſtendome, and Chriſt like to recouer his owne poſſeſ<g ref="char:EOLhyphen"/>ſion againe, ioyned with his confederats, &amp; laid their heads together, ſundry and diuers times, eſpecially in the late pretended coun<g ref="char:EOLhyphen"/>fell holden at <hi>Trent,</hi> and conſidered what was beſt to be donne in this ſo deſperate a ſtate: and when they had ſought by diuers meanes to bringe the ſame to paſſe, as by writing of bookes for their defence, by con<g ref="char:EOLhyphen"/>feſſing ſum what to haue bin amiſſe, and to promiſſe redreſſe thereof (which they neuer ment in trueth) by often promiſing of a generall, lawfull, and free counſel, but ne<g ref="char:EOLhyphen"/>uer performing it, by threatnings, ſometime force and warres, and vſinge the ſame ſome<g ref="char:EOLhyphen"/>time, &amp; by diuers other ſuttle deuiſes, which
+<pb facs="tcp:7041:4" rendition="simple:additions"/> neuertheleſſe by the prouidence of God came to nought. Then they determined at laſt in theyr ſayd pretenced Counſell of <hi>Trent,</hi> that ſeeing by no other waye they were able to compaſſe theyr intent, and to hold and proppe vp theyr ruynous ſtate, (which they make more accoumpt of then the glory of God): that ther ſhould be made (forſooth) a holy league betweene the holy father, and all his obedient Children which kiſſe his feete, againſt all the profeſſours of the Goſpell in Chriſtendome: with a full reſolution, that it ſhould be lawful for them by the diſpenſation of the holy Father, to vſe all Treachery, deceite, periury, violence and crueltye againſt them, as beeing here<g ref="char:EOLhyphen"/>tickes, and condemned by the ſayde holye Counſell of <hi>Trent.</hi> And that the executi<g ref="char:EOLhyphen"/>on thereof might be donne with more heede, and dylligence, ſome were in all Countreys appointed who ſhoulde vnder<g ref="char:EOLhyphen"/>take the ſame. And herehence, hath ſith<g ref="char:EOLhyphen"/>ens ryſen the Fyre and Flame of diſcenti<g ref="char:EOLhyphen"/>ons, mutynes, and tumultes in all Chriſten<g ref="char:EOLhyphen"/>dome.</p>
+            <pb facs="tcp:7041:5" rendition="simple:additions"/>
+            <p>This I thought good (gentle reader) to admoniſh thee of, that in reading of this ſmall diſcourſe, thou mighteſt with more light and iudgement, looke into the popiſh practiſes therein contayned. The Lorde God make vs wiſe in foreſeeing their perni<g ref="char:EOLhyphen"/>tious cou<g ref="char:cmbAbbrStroke">̄</g>ſels, &amp; auoiding the ſame in time. For as they haue in that noble Realme of <hi>Fraunce,</hi> and in other places ſhewed theyr malitious intents, ſo mynd they to do the like, it is to be feared in England, if God doo not of his mercy let them, which he graunt, for Ieſus Chriſte his ſake. Amen.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:7041:5" rendition="simple:additions"/>
+            <head>
+               <g ref="char:leaf">❧</g> A Summe of the <hi>Guiſian Ambaſsage to the Biſhoppe of</hi> Rome, founde lately amongſt the <hi>writings of one</hi> Dauid <hi>an Aduo<g ref="char:EOLhyphen"/>cate of</hi> Paris, &amp;c.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>Hat the ciuill wars</hi> which haue ben in <hi>France,</hi>
+               <note place="margin">Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> war<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Fra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> full <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>fitab<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Apo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> haue brought more hinde<g ref="char:EOLhyphen"/>raunce, then furtheraunce to the Apoſtolick Sea, eſpecially for y<hi rend="sup">e</hi> lyberty both to write Bookes, which are reprochfull to the ſayde Sea, as o<g ref="char:EOLhyphen"/>therwiſe to deface the honour therof: by the which liberty, the minds of the Heretikes are encouraged &amp; hardned, and moſt of the Catholyques brought to the contempt and ſcorne of the ſayd holy Sea.</p>
+            <p>That the ende and euent of all the victories which haue bene gotten in Fraunce,<note place="margin">
+                  <hi>Hug<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſteri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> curſe Apo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sea</note> haue fallen out vnto ſome peace ſhamefull, and diſhonourable to
+<pb facs="tcp:7041:6" rendition="simple:additions"/> the King, wherof it maye be gathered, that the ſtock of <hi>Hugh Capet,</hi> albeit it hath ſucceded in the ſingular, and only gouernment of the kingdom of <hi>Charls</hi> the great: Yet it hath not ſucceeded it in the enioying of the Apoſtolical bleſ<g ref="char:EOLhyphen"/>ſing: which bleſſing, conſecration, and inauguration properly, and peculi<g ref="char:EOLhyphen"/>arly was beſtowed vpon the lygnage and poſterity of <hi>Charles</hi> the great. And further, like as <hi>Capet</hi> by taking to him and vſurping the bleſſing of the kings beſtowed on <hi>Charles</hi> the great, hath by his raſhnes and preſumption vio<g ref="char:EOLhyphen"/>lated the ſame: ſo hath he prouoked v<g ref="char:EOLhyphen"/>pon his own, and ſucceſſors heads, the continual curſe and malediction of the ſaid Apoſtolicall Seate: from y<hi rend="sup">e</hi> which curſe ſo great falſehood, theft, and re<g ref="char:EOLhyphen"/>bellion againſt the holy Sea haue ſprong, to the deſtruction &amp; ouerthrow wherof, that deteſtable law, and ordi<g ref="char:EOLhyphen"/>naunce hath bene enacted, and put in vre, which commonly amongſt the French men, is called the freedome or
+<pb facs="tcp:7041:6"/> liberty of the French Church:<note place="margin">The <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tute <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the ly<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of y<hi rend="sup">e</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Chu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> brydl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Pop<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> which in former tymes hath bene a refuge &amp; ayde to the <hi>Albigenſes</hi> and beggars of <hi>Lions,</hi> as they termed them, and now in our time to the <hi>Lutherans</hi> and <hi>Cal<g ref="char:EOLhyphen"/>uiniſtes,</hi> hath geuen occaſion and mat<g ref="char:EOLhyphen"/>ter of rebellion. In ſomuch that it is not to be maruailed that the victories of thoſe kings which theſe .16. yeares paſt, haue vndertaken warre for the Catholike church, haue had no happy ſucceſſe, neither at any time ſhall, as longe as the Crowne ſhall reſt in the family of <hi>Capet.</hi>
+            </p>
+            <p>That it may ſeeme that God in this concluſion of the laſt ſhamefull peace,<note place="margin">The of Ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the g<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> waies full t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Apoſl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sea.</note> hath as it were called home the right<g ref="char:EOLhyphen"/>full and lawfull heires of the Crowne vnto their right, and to haue offered occaſion and beginning to reſtore the Crowne vnto the heads of the ryght heires of <hi>Charles.</hi> Of whome there is not one vntill this day found, which hath not ſhewed vnto the holy Sea,
+<pb facs="tcp:7041:7"/> fidelity, obedience, and due reuerence: and by that faithfulnes, and dutiful<g ref="char:EOLhyphen"/>nes, hath declared him ſelfe to be the true, right, and lawfull heire of the A<g ref="char:EOLhyphen"/>poſtolicall bleſſing beſtowed vpon the crowne of <hi>Fraunce.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ock of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d by <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>herof.</note>That it is well knowen now to all men that the ſtocke of thoſe that deſ<g ref="char:EOLhyphen"/>cende from <hi>Capet,</hi> is caried headlong into a reprobate ſence by the iuſt pla<g ref="char:EOLhyphen"/>gue of God, for that ſome of them are hartles, and wytles, of no wiſdome, or courage: ſome other reprobate, reiec<g ref="char:EOLhyphen"/>ted, hated of God and men, Heretikes, excommunicate, and caſt of from the holy fellowſhip of the church.</p>
+            <p>That it is a token of this maledic<g ref="char:EOLhyphen"/>tion, fyrſt that ſome of them are borne of an euyll ſhape of body, of fowle and ſtained blood: Further, that in the flowre of their age, they dye, leauing no heyres of their body to enioye the kingdome, and that there remayneth
+<pb facs="tcp:7041:7"/> no hope of their ſtocke and yſſue, and therfore the inheritaunce of the king<g ref="char:EOLhyphen"/>dome is like to paſte away to Heretiks and exco<g ref="char:cmbAbbrStroke">̄</g>municants, to the great hurt of the Apoſtolicke Sea.</p>
+            <p>That where great daunger now is at hand,<note place="margin">What Cathol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> endeuo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ought t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> all the endeuour of all the ca<g ref="char:EOLhyphen"/>tholickes ought to be employed, that the crowne of Fraunce be reſtored to the true and lawfull heires of <hi>Charles:</hi> eſpecially, ſeeing they are ſo freſh and floriſhing in mind and body, that they are well knowen to be moſt fytteſt to atchieue, and enterpriſe the greateſt matters, and of moſt accompt.</p>
+            <p>That the late warres hath aduan<g ref="char:EOLhyphen"/>ced them to attaine honors,<note place="margin">Warre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fitable t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Guiſian</hi> but mu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> more pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> rules and offyces: but that peace ſhall reſtore a<g ref="char:EOLhyphen"/>gaine to them the lawfull inheritance of the kingdome, with great good will and lyking of all the French Nation. Wherfore it is not to be doubted,<note place="margin">Sermo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to be n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> but that the couenants, and conditions of
+<pb facs="tcp:7041:8"/> this diſhonourable peace, which are graunted to y<hi rend="sup">e</hi> Heretikes by their new Edict of Pacification, although they may ſeeme profitable, and conuenient to the Heretikes, yet are they framed and deuiſed not by mans counſell, but by Gods, that the prayſe, honour, and glory of the vanquiſhing of the Here<g ref="char:EOLhyphen"/>tikes may reſt vpon God onely, and the bleſſing of his holy Vicar in earth. Wherfore it is to be prouided, that in all catholicke citties, wholſome Ser<g ref="char:EOLhyphen"/>mons maye be made, meete to ſtyrre vp the citizens mindes, and to let the aſſemblyes of the abhominable ſecte, permitted by the laſt Edict.</p>
+            <p>
+               <note place="margin">King <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e war<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of.</note>That the king is to be warned, that the new ſtyrres which he ſhall heare euery where to be continually rayſed, do not diſquiet,<note place="margin">Duke uiſe to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t in : and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> hee <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de do.</note> and trouble his minde, and that he put the Duke of <hi>Guiſe</hi> in truſt to compoſe, and pacify them, who hauing authority from the king, with a ſtoute and valiant corage, ſhall make
+<pb facs="tcp:7041:8"/> confederacies betweene the nobility, and the cities, &amp; ſo ſhall bynd each one with an oathe, that they be not onely bound to ſolow his authority, but alſo priuatly, and properly his fayth, and ſhall ſweare that they wyll acknow<g ref="char:EOLhyphen"/>ledge no other chiefe of the confedera<g ref="char:EOLhyphen"/>cie, but the Duke of <hi>Guiſe</hi> himſelfe.</p>
+            <p>Theſe things being eſtabliſhed,<note place="margin">Orde<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> taken Duke Guiſe Parri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>riſh Pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> the Duke of <hi>Guiſe</hi> ſhal take order, that the Pariſh Prieſts, not onely in townes, but alſo in villages and hamlets, doo write out, and in bookes ſet downe, the names of all ſuch as are of yeares to beare armour, and doo ſende thoſe bookes vnto the ſayde Duke of <hi>Guiſe,</hi> who incontine<g ref="char:cmbAbbrStroke">̄</g>t ſhal appoint out Cap<g ref="char:EOLhyphen"/>taines into thoſe Pariſhes, which ſhal ſee and take a view what kinde of ar<g ref="char:EOLhyphen"/>mor, or weapons euery one is fyt, and meete to beare.<note place="margin">What Prieſt doo in cular c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſion.</note> The Prieſts alſo ſhall be wylled, that in auricular confeſſion they inſtruct euery one that is enrol<g ref="char:EOLhyphen"/>led, of y<hi rend="sup">e</hi> iuſt cauſe of this warre, which
+<pb facs="tcp:7041:9"/> is for defence ſake of their conſcience, and ſhall exhort them that they with all ſpeede prouide them ſelues of Ar<g ref="char:EOLhyphen"/>mour and weapons.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the ought</note>The king in the meane whyle ſhall prouide that Parliamentes or aſſem<g ref="char:EOLhyphen"/>blies of al Eſtates and degrees of his Realme be called &amp; ſummoned (which is a pyt made by the Heretikes for the<g ref="char:cmbAbbrStroke">̄</g> ſelues to fall in) and thervnto ſhall or<g ref="char:EOLhyphen"/>daine very great preparation, pompe, and ſolemnity (according to the man<g ref="char:EOLhyphen"/>ner of his Predeceſſors) and ſhall ſend vnto euery prouince of his kingdome,<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ylers <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to be <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and they do.</note> ſuch councellours as are moſt faithfull and truſty to him, which ſhall by their counſayle direct and gouerne the par<g ref="char:EOLhyphen"/>ticular aſſemblies of euery iuriſdictio<g ref="char:cmbAbbrStroke">̄</g>: Euery one of theſe ſhall conſider what is moſt meete for the kings purpoſe according to their wiſdom, and for the faith and oath, wherwith he is bound to God, and his holynes, and the ca<g ref="char:EOLhyphen"/>tholyque king.</p>
+            <pb facs="tcp:7041:9"/>
+            <p>The <hi>Queene</hi> mother in the meane tyme, ſhall go to her yongeſt Sonne,<note place="margin">What <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Queene mother ſhould</note> who is lewde, &amp; a chaungling, whom ſhe ſhall eaſily perſwade that he come to his brother y<hi rend="sup">e</hi> King, &amp; go with him to the Parliaments of his kingdom, and ſhall labour by all meanes to en<g ref="char:EOLhyphen"/>tice thyther the king of <hi>Nauar,</hi> her ſonne in lawe, and the Prince of <hi>Con<g ref="char:EOLhyphen"/>die,</hi> and ſhe ſhall threaten them, that if they preſent not them ſelues at the Parliaments, they ſhall be proclay<g ref="char:EOLhyphen"/>med rebels, and obſtinate.</p>
+            <p>And to the intent,<note place="margin">What t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> King a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Gui<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhould d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> take aw<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all ſuſpi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>on.</note> that all the occa<g ref="char:EOLhyphen"/>ſion of ſuſpition and feare be taken a<g ref="char:EOLhyphen"/>way from them, the Duke of <hi>Guiſe</hi> and all his Brethren, ſhall firſt depart from the Court, as if it were for ſome diſpleaſure conceyued againſt them, &amp; the king departing out of <hi>Paris,</hi> ſhal betake him ſelfe to ſome ſuch place, where ſhall ſeeme to be moſt free ac<g ref="char:EOLhyphen"/>ceſſe vnto him &amp; ſhall receyue &amp; enter<g ref="char:EOLhyphen"/>taine his Brother, &amp; all the reſt which
+<pb facs="tcp:7041:10"/> ſhall come vnto him, with all pretence of good wyll, and curteſy.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Cap<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es of the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>riſhes, at they to<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ld do.</note>About the time of the Parliame<g ref="char:cmbAbbrStroke">̄</g>ts, the Captaines of the Pariſhes, ſhall euery one take a muſter, and view of his ſoldiours, and of thoſe bands ſhal chuſe out ſuch a number as the chiefe of the holy League ſhall appoint, that they may be in a readines to do thoſe thinges which ſhall be commaunded them.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at is to one vpo<g ref="char:cmbAbbrStroke">̄</g> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aye of Parlia<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts.</note>When the day of the Parliaments ſhall come, before any thing is refer<g ref="char:EOLhyphen"/>red to the aſſembly, an oath ſhall be exacted in order of euery one, y<hi rend="sup">t</hi> what<g ref="char:EOLhyphen"/>ſoeuer ſhall be agreed vpon, &amp; decreed in the Parliaments, ſhall be kept and obſerued. The Citizens moreouer ſhall binde their brotherhooddes to beare the charges of all the warres.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at is to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ore of Pope.</note>Laſtly, his Holines ſhalbe entrea<g ref="char:EOLhyphen"/>ted, that it woulde pleaſe him by his
+<pb facs="tcp:7041:10"/> authority to allowe, and ratify what<g ref="char:EOLhyphen"/>ſoeuer ſhalbe decreed in theſe Parlia<g ref="char:EOLhyphen"/>ments:<note place="margin">Prag<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> call d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> and that it woulde pleaſe him that there maye be lyke force of theſe decrees, as hath bene accuſtomed to bee of the pragmaticall decree be<g ref="char:EOLhyphen"/>tweene the holye Sea, and this Realme, as heretofore it hath bene done in thoſe things, which haue ben agreed vpon betwene the Kings and the Biſhops.</p>
+            <p>Moreouer,<note place="margin">What be don<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> co<g ref="char:cmbAbbrStroke">̄</g>uey<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> tytle o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Crow<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the ſto<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Capet<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> to the entent the right of the royal inheritaunce may be con<g ref="char:EOLhyphen"/>uayed away from the kinred, ſtocke, and family of <hi>Caper,</hi> and that depo<g ref="char:EOLhyphen"/>ſing of them maye according to the manner and cuſtome of our Forefa<g ref="char:EOLhyphen"/>thers be left in the power of the Par<g ref="char:EOLhyphen"/>liaments: A decree ſhall be made, that if any Prince of the blood royall: if any peere, or noble man ſhall re<g ref="char:EOLhyphen"/>fuſe to obey the ſame decree of the Parliaments. The Prince from that daye forwarde ſhalbe Proclay<g ref="char:EOLhyphen"/>med
+<pb facs="tcp:7041:11"/> vnworthy the inheritance of the kingdome. The peere or noble man ſhall be iudged vnworthy of all his honours and tytles, their goods ſhall be confiſcated: to the ende, that mony of the ſale therof gathered together, maye be employed to the vſe of the warre, and they them ſelues ſhall be adiudged to die. And if they be appre<g ref="char:EOLhyphen"/>hended, they ſhalbe put to death: if not, their counterfaits, or pictures ſhalbe made faſt vpon the Gallous &amp; gibbets, and rewards ſhalbe propo<g ref="char:EOLhyphen"/>ſed publikely to ſuch as ſhall ſlaye, or kyll them.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ath of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tye to Pope, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a ſub<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tion to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ounſel <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tent to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>equired.</note>Theſe thinges being eſtablyſhed, and an oath to the ſame exacted, and geuen, the States of the Realme ſhal yeeld to the ſucceſſour of Saint <hi>Peter,</hi> a new oath of fidelity, and ſhall pro<g ref="char:EOLhyphen"/>feſſe that they wyl lyue, and die in the forme of that faith, &amp; Religion which hath bene preſcribed by the Counſell of <hi>Trent,</hi> &amp; the States of the Realme
+<pb facs="tcp:7041:11"/> in theſe Parliaments, ſhall iudic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ide to the ſayde Counſell, and ſhall pro<g ref="char:EOLhyphen"/>nounce and proteſt all Edicts which in this Realme hath bene made a<g ref="char:EOLhyphen"/>gainſt the authority of that Counſell, to be taken for voyde, vnlawfull, and as if they had neuer bene writte<g ref="char:cmbAbbrStroke">̄</g>: But on y<hi rend="sup">e</hi> other ſide all thoſe Edicts which haue bene made to the rooting out, and abolyſhing of hereſies, to be kept and obſerued.</p>
+            <p>The King by the authoritie,<note place="margin">The to diſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with King made Prot<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> and diſpenſation of the holy Sea, ſhalbe diſcharged and abſolued from that oath which hee hath made to Here<g ref="char:EOLhyphen"/>tikes, and their aſſociates, and confe<g ref="char:EOLhyphen"/>derates: And to the Heretikes ſhall a certaine day be appointed before the which they ſhall profeſſe before y<hi rend="sup">e</hi> Ec<g ref="char:EOLhyphen"/>cleſiaſtical Magiſtrats, that they are ſory for their enterpriſe, to the entent they maye obtaine Abſolution for ſo great an offence, &amp; they ſhal entreat y<hi rend="sup">e</hi> Prince to pardo<g ref="char:cmbAbbrStroke">̄</g> them of high treaſo<g ref="char:cmbAbbrStroke">̄</g>.</p>
+            <pb facs="tcp:7041:12"/>
+            <p>And becauſe the execution of this Article may be hindred and ſtayed by certaine rebellious Prouinces which haue taken Armes,<note place="margin">Viceroy made, the ſam <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe.</note> ſupplication muſt be made to the king, that he woulde make ſome Viccar generall, or <hi>Vice<g ref="char:EOLhyphen"/>roy</hi> of his kingdome, which muſt be a fytte Prince, and ſkylfull of warres, able and luſtie, for courage, age, and body, apte to geue counſayle, and ad<g ref="char:EOLhyphen"/>uiſe of him ſelfe, and to endure the paynes of warre: eſpeciallye, ſuch a one, as hath alwayes kept him ſelfe pure, and vnſpotted, from all ſtayne, contagion, and company of Heretiks. And briefly, he ſhall be requeſted, that he woulde geue this honour vnto the Duke of <hi>Guiſe:</hi> whome, it is well knowen, to be furniſhed, and endued, with all helpes of wytte, and bodye, and ſkyll of warfare, to take in hande ſuch an office.</p>
+            <p>Then the Kinges Brother muſt
+<pb facs="tcp:7041:12"/> be admoniſhed, and tolde,<note place="margin">Order t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> taken w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Duke <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>lanſon.</note> what a great offence he hath commytted, in that hee forſooke his Brother the King, to ioyne him ſelfe to Heretikes, yea, and to be their Captaine, and to leade an Armie againſt his Bro<g ref="char:EOLhyphen"/>ther the King, and in that he forced his Brother to graunt vnto him, not onely a parte of his kingdome, and very large, and exceſſiue allowaunce, but alſo to ſuffer him to haue a Rely<g ref="char:EOLhyphen"/>gion of ſo execrable impietie. And foraſmuch, as this is the fyrſt, and higheſt poynt of treaſo<g ref="char:cmbAbbrStroke">̄</g> againſt Gods Maieſtie, and the Kinges: for that it is not in the Kinges power to par<g ref="char:EOLhyphen"/>don ſo greeuous an offence, requeſt ſhall be made to the Parliamentes, that Iudges may be appointed to the Duke of <hi>Alanſon,</hi> which maye heare and determine of ſo great a fault, and the memorie of the moſt holy, &amp; godly example of the Catholique King, ſhal be renued, which dyd not ſpare his onely Sonne.</p>
+            <pb facs="tcp:7041:13"/>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at is to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>one in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nde of Parlia<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s by the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mies of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Pari<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>Finally, at the day that the Parlia<g ref="char:EOLhyphen"/>ments ſhalbe diſſolued, from all parts of the Realme ſhall the Armies of the Pariſhes and other bandes, aſwell extraordinarie as ordinarie diſcouer them ſelues, to put in execution the decree of the Parliaments, and they ſhall apprehend the Duke of <hi>Alenſon,</hi> and the reſt which haue taken parte with him in his gouernement, and wicked warres.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at by Duke Guiſe.</note>By this practiſe the Duke of <hi>Guiſe</hi> hauing gathered a ſtrong Army, ſhal ſet vpon ſuch Prouinces, as haue re<g ref="char:EOLhyphen"/>belled, y<hi rend="sup">e</hi> which he ſhal conquer either by force, and Armes: eyther by polly<g ref="char:EOLhyphen"/>cie and deuices, and he ſhall with ter<g ref="char:EOLhyphen"/>rour ouerrunne, both farre and wide, ſpoyling the Country, and ſurpriſing all ſtrong Townes by hunger, force, and want, by buylding and rayſing vp Caſtels and Holdes neare about, by making often outroades vpon the inhabitants, and he ſhall not to lyttle
+<pb facs="tcp:7041:13"/> purpoſe ſpende tyme in ſubduing by force and Gunſhotte, ſtrong Citties, as it came to paſſe at the aſſaulte of <hi>Rochell.</hi>
+            </p>
+            <p>When the Duke of <hi>Guiſe</hi> hath got<g ref="char:EOLhyphen"/>ten this famous and noble Victorie,<note place="margin">The co<g ref="char:cmbAbbrStroke">̄</g>c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſion of t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> whole pl<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>forme be<g ref="char:EOLunhyphen"/>tweene t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Guiſian<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and the Pope.</note> and hath made his entraunce &amp; way into the chiefeſt Cities of the Realme, hauing the nobility lincked to him: he ſhall finde meanes to make inquiſiti<g ref="char:EOLhyphen"/>on of Duke <hi>Alenſon</hi> the kinges Bro<g ref="char:EOLhyphen"/>ther, and other his aſſociates: and at the laſt by the lycence and counſayle of his holineſſe, ſhall thruſt the King and the Queene into a Monaſterie, following the example of his great Grandfather king <hi>Pepin:</hi> Who draue <hi>Childerick</hi> the king, entrapped by the lyke meanes into a Monaſtery: and by this deuice, the ſecular inheritance of the Crowne of <hi>Fraunce,</hi> together with the Apoſtolicall bleſſyng being recouered, he ſhal reſtore without ex<g ref="char:EOLhyphen"/>ception, and reſtraint vnto the holy
+<pb facs="tcp:7041:14"/> Sea, the auncient dignitye, power and authoritie: and ſhall repeale and reuoke the Priuiledges of the Church of <hi>Fraunce,</hi> as they are com<g ref="char:EOLhyphen"/>monly called, yeelding his fayth and oath: fyrſt that he wyll when he ſhall haue gotten vnto him ſelfe the kingdome, religiouſly, and inuiolably performe all theſe thinges.</p>
+         </div>
+         <div type="addendum">
+            <pb facs="tcp:7041:14" rendition="simple:additions"/>
+            <head>¶ An Addition.</head>
+            <p>
+               <seg rend="decorInit">L</seg>Eaſt (good Reader) the ef<g ref="char:EOLhyphen"/>fect of this Legacie ſhould not be knowen vnto thee, I haue thought good to annexe to this Reporte the famous, eyther inuention, or declarati<g ref="char:EOLhyphen"/>on of Pope <hi>Stephan,</hi> wherby the weake confirmation of the <hi>Guiſian</hi> right maye be knowen: It is extant in <hi>Rhegino,</hi> a Moncke of the order of Saint <hi>Benet,</hi> Ab<g ref="char:EOLhyphen"/>bot of <hi>Pruniack,</hi> in his Cronicles of the yeare of our Lorde. 753.</p>
+            <p>
+               <hi>STephan</hi> Byſhoppe,<note place="margin">A Legen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> the ſeruaunt of the ſeruauntes of God. &amp;c. As no man ought to vaunt him ſelfe of his owne merites, ſo ought not the woorkes of God which by him are wrought in his Saynctes, to bee paſſed ouer in ſylence, without his deſartes: but rather be ſet foorth as the Angell warned <hi>Tobie.</hi>
+            </p>
+            <pb facs="tcp:7041:15"/>
+            <p>Whervpon I for the great oppre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sio<g ref="char:cmbAbbrStroke">̄</g> o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the holy Church, by the moſt cruell and vnworthy to be named, King <hi>Haistolph,</hi> came into Fraunce vnto the good and faithfull Lord to Saint <hi>Peter: Pipine,</hi> moſt chriſtian King, where I was ſicke vnto death, and for a tyme remayned at the towne of Paris, in the reuerent Mona<g ref="char:EOLhyphen"/>ſtery of Saint <hi>Dioniſe</hi> Martir. Of whom when the Phiſitions dyd diſpayre, I was as it were praying in the Church of the ſayde bleſſed Martyr, vnder the Belles, and I ſawe before the aultar Saint <hi>Peter,</hi> and the teacher of the Gentyles Saynt <hi>Paule,</hi> and with all my minde I knewe them by their Surplices, and alſo Saynt <hi>Dioniſe</hi> at the right hande of Saynt <hi>Peter,</hi> being ſpare, thin and long, and the good Shepheard Saynt <hi>Peter</hi> ſayde. This our Brother doth deſire health, and Saynt <hi>Paule</hi> ſayde. He ſhall be whole ſtrayght wayes, and comming neare, he reached his hand to the breſt of S. <hi>Dioniſe</hi> louing<g ref="char:EOLhyphen"/>ly, and he looked to S. <hi>Peter,</hi> and S. <hi>Peter</hi> ſayde vnto Saynt <hi>Dioniſe</hi> mearely. It
+<pb facs="tcp:7041:15"/> lyes in you to make him whole. And by and by Saint <hi>Dioniſe</hi> holding in his hand a Cenſor, with Frankinſence, and a Palme, hauing a Prieſt and a Deacon, which ſtoode by, came vnto mee and ſayde Peace be with thee Brother, feare not, thou ſhalt not dye, vntyll thou re<g ref="char:EOLhyphen"/>turne happely vnto thy ſeate: Ariſe hole, and dedicate this Aultar to the honour of God, and the Apoſtles, <hi>Peter</hi> and <hi>Paule,</hi> whom thou ſeeſt, ſaying Maſſe of than<g ref="char:EOLhyphen"/>keſgeuing: And out of hand I was made whole, and I woulde haue fulfilled that which they commaunded me, and they that were there, ſayde that I was mad: wherfore I told them and the King, and all thoſe that were with him, in order all that I had ſeene. Theſe thinges were done the yeare from the incarnation of our Lorde .753. the Ides of Auguſt. At what tyme being ſtrengthened by the power of Chriſte, at the celebration of the conſecration of the ſayd Aultar, and the offering vp of the Sacrifice, I an<g ref="char:EOLhyphen"/>noynted as Kinges of Fraunce, King
+<pb facs="tcp:7041:16"/> 
+               <hi>Pipine,</hi> and his two Sonnes, <hi>Charles</hi> a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Charlemaine,</hi> alſo <hi>Bertrand</hi> the wyfe of the ſayde King apparelled with royall at<g ref="char:EOLhyphen"/>tyre, and with the ſeauenfolde grace of the holy ſpirite, haue ordained them: In the name of God: and ſanctifying the Nobles of Fraunce with the Apoſtoly<g ref="char:EOLhyphen"/>call bleſsing, by the authority of Saynt <hi>Peter</hi> geuen him by Chriſt, bound them, and required them that they ſhoulde ne<g ref="char:EOLhyphen"/>uer from thencefoorth preſume by any manner of way, to appoynt eyther them ſelues, or any of their ſucceſſours af<g ref="char:EOLhyphen"/>ter them, a King of any other ſtocke, ſauing of their Progenie.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="erratum">
+            <head>A faulte eſcaped in printing.</head>
+            <p>In the fyrſt leafe of the Epiſtle, the ſeconde ſide, and ſyxeteene line: for flowing, read floweth.</p>
+            <pb facs="tcp:7041:16"/>
+         </div>
+      </back>
+   </text>
+</TEI>
